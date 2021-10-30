@@ -1,5 +1,5 @@
-import React from "react";
+import BasicConnection from "./BasicConnection";
 
 export default function App() {
-  return <div>hello world</div>;
+  return <BasicConnection />;
 }
